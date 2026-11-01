@@ -1,0 +1,22 @@
+# ============================================================
+#  Smart Grid Disaster Recovery & Rerouting Optimization System
+#  Python Dependencies  |  B.Tech CSE - Discrete Mathematics Project
+#  Generated: 2026-10-31
+# ============================================================
+
+# -- Web Dashboard --------------------------------------------
+streamlit==1.64.0
+
+# -- Graph Algorithms & Data Structures -----------------------
+networkx==3.7
+
+# -- Visualisation --------------------------------------------
+matplotlib==3.11.2
+plotly==7.0.0
+
+# -- Data Handling --------------------------------------------
+pandas==3.1.0
+numpy==2.5.0
+
+# -- Testing Framework ----------------------------------------
+pytest==9.2.0
